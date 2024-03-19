@@ -26,6 +26,6 @@ git clone https://github.com/AahanT/Tip_of_the_Tongue.git
 2. We used Yale Face Database to generate the eignenface and fisherface matrix. This database could be found on http://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html
 3. Change `path/to/face/data` to the path of the face dataset and run ***GettingFaces.ipynb***
 4. Load **acr_eigen.csv** and **meanandface.csv** into the Tablet
-5. Create a new project in *Android Studio* and replace the **activity_main.xml** with the **activity_main.xml** stored in the android folder
+5. Create a new project in *Android Studio* and replace the **activity_main.xml** with the **activity_main.xml** stored in the ***android*** folder
 6. Build and Flash the *Android Studio* project
 
