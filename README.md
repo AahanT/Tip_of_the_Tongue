@@ -29,3 +29,7 @@ git clone https://github.com/AahanT/Tip_of_the_Tongue.git
 5. Create a new project in *Android Studio* and replace the **activity_main.xml** with the **activity_main.xml** stored in the ***android*** folder
 6. Build and Flash the *Android Studio* project
 
+## Working Application
+
+![Starting Screen](/assets/img1.png)
+![Running Application](/assets/img2.png)
