@@ -9,12 +9,12 @@ We refered to the following papers when creating this project:
 2. M. Turk and A. Pentland, “Eigenfaces for recognition,” Journal of cognitive neuroscience, vol. 3, no. 1, pp. 71–86, 1991.
 
 Hardware Used:
-– Lenovo X606V Smart Tab M10 FHD Plus (4GB RAM, 128GB Storage)
-– NVIDIA SHIELD Tablet K1 (2 GB RAM, 128 GB Storage)
++ Lenovo X606V Smart Tab M10 FHD Plus (4GB RAM, 128GB Storage)
++ NVIDIA SHIELD Tablet K1 (2 GB RAM, 128 GB Storage)
 
 Softwares Used:
-– Android Studio (Electric.Eel| 2022.1.1) 
-– Jupyter Notebook
++ Android Studio (Electric.Eel| 2022.1.1) 
++ Jupyter Notebook
 
 
 ## Initializing
