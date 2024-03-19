@@ -32,4 +32,4 @@ git clone https://github.com/AahanT/Tip_of_the_Tongue.git
 ## Working Application
 
 ![Starting Screen](https://github.com/AahanT/Tip_of_the_Tongue/blob/main/img2.png)
-![Running Application](https://github.com/AahanT/Tip_of_the_Tongue/blob/main/img2.png)
+![Running Application](https://github.com/AahanT/Tip_of_the_Tongue/blob/main/img1.png)
