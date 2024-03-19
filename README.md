@@ -31,5 +31,5 @@ git clone https://github.com/AahanT/Tip_of_the_Tongue.git
 
 ## Working Application
 
-![Starting Screen](/assets/img1.png)
-![Running Application](/assets/img2.png)
+![Starting Screen](https://github.com/AahanT/Tip_of_the_Tongue/blob/main/img2.png)
+![Running Application](https://github.com/AahanT/Tip_of_the_Tongue/blob/main/img2.png)
